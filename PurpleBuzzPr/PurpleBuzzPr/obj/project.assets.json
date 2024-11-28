@@ -7776,11 +7776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sema Gurbanova\\Desktop\\Home-Task\\PurpleBuzzPr\\PurpleBuzzPr\\PurpleBuzzPr.csproj",
+      "projectUniqueName": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\PurpleBuzzPr.csproj",
       "projectName": "PurpleBuzzPr",
-      "projectPath": "C:\\Users\\Sema Gurbanova\\Desktop\\Home-Task\\PurpleBuzzPr\\PurpleBuzzPr\\PurpleBuzzPr.csproj",
+      "projectPath": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\PurpleBuzzPr.csproj",
       "packagesPath": "C:\\Users\\Sema Gurbanova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sema Gurbanova\\Desktop\\Home-Task\\PurpleBuzzPr\\PurpleBuzzPr\\obj\\",
+      "outputPath": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\PurpleBuzzPr\\PurpleBuzzPr\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
