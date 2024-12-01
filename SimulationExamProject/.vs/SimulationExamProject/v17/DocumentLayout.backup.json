@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sema Gurbanova\\Desktop\\SimulationExamProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA4BC1-FE90-4BC4-872D-9A6E4584A267}|SimulationExamProject\\SimulationExamProject.csproj|c:\\users\\sema gurbanova\\desktop\\simulationexamproject\\simulationexamproject\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA4BC1-FE90-4BC4-872D-9A6E4584A267}|SimulationExamProject\\SimulationExamProject.csproj|solutionrelative:simulationexamproject\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA4BC1-FE90-4BC4-872D-9A6E4584A267}|SimulationExamProject\\SimulationExamProject.csproj|c:\\users\\sema gurbanova\\desktop\\simulationexamproject\\simulationexamproject\\areas\\admin\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA4BC1-FE90-4BC4-872D-9A6E4584A267}|SimulationExamProject\\SimulationExamProject.csproj|solutionrelative:simulationexamproject\\areas\\admin\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA4BC1-FE90-4BC4-872D-9A6E4584A267}|SimulationExamProject\\SimulationExamProject.csproj|c:\\users\\sema gurbanova\\desktop\\simulationexamproject\\simulationexamproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA4BC1-FE90-4BC4-872D-9A6E4584A267}|SimulationExamProject\\SimulationExamProject.csproj|solutionrelative:simulationexamproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA4BC1-FE90-4BC4-872D-9A6E4584A267}|SimulationExamProject\\SimulationExamProject.csproj|c:\\users\\sema gurbanova\\desktop\\simulationexamproject\\simulationexamproject\\areas\\admin\\views\\order\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FBA4BC1-FE90-4BC4-872D-9A6E4584A267}|SimulationExamProject\\SimulationExamProject.csproj|solutionrelative:simulationexamproject\\areas\\admin\\views\\order\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA4BC1-FE90-4BC4-872D-9A6E4584A267}|SimulationExamProject\\SimulationExamProject.csproj|c:\\users\\sema gurbanova\\desktop\\simulationexamproject\\simulationexamproject\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA4BC1-FE90-4BC4-872D-9A6E4584A267}|SimulationExamProject\\SimulationExamProject.csproj|solutionrelative:simulationexamproject\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBA4BC1-FE90-4BC4-872D-9A6E4584A267}|SimulationExamProject\\SimulationExamProject.csproj|c:\\users\\sema gurbanova\\desktop\\simulationexamproject\\simulationexamproject\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBA4BC1-FE90-4BC4-872D-9A6E4584A267}|SimulationExamProject\\SimulationExamProject.csproj|solutionrelative:simulationexamproject\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\SimulationExamProject\\SimulationExamProject\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimulationExamProject\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\SimulationExamProject\\SimulationExamProject\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "SimulationExamProject\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T19:04:38.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\SimulationExamProject\\SimulationExamProject\\Areas\\Admin\\Views\\Order\\Update.cshtml",
+              "RelativeDocumentMoniker": "SimulationExamProject\\Areas\\Admin\\Views\\Order\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\SimulationExamProject\\SimulationExamProject\\Areas\\Admin\\Views\\Order\\Update.cshtml",
+              "RelativeToolTip": "SimulationExamProject\\Areas\\Admin\\Views\\Order\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T19:46:24.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\SimulationExamProject\\SimulationExamProject\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SimulationExamProject\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\SimulationExamProject\\SimulationExamProject\\Models\\Order.cs",
+              "RelativeToolTip": "SimulationExamProject\\Models\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:35:22.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\SimulationExamProject\\SimulationExamProject\\Areas\\Admin\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "SimulationExamProject\\Areas\\Admin\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\SimulationExamProject\\SimulationExamProject\\Areas\\Admin\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "SimulationExamProject\\Areas\\Admin\\Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T19:14:58.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\SimulationExamProject\\SimulationExamProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "SimulationExamProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\SimulationExamProject\\SimulationExamProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "SimulationExamProject\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:03:07.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\SimulationExamProject\\SimulationExamProject\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "SimulationExamProject\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\SimulationExamProject\\SimulationExamProject\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "SimulationExamProject\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswEkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T19:03:00.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
