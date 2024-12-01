@@ -1,0 +1,18 @@
+﻿@model Service;
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Title" ></label>
+        <input class="form-control" asp-for="Title" >
+
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description"></label>
+        <input  class="form-control" asp-for="Description">
+    </div>
+    <div class="mb-3 form-check">
+        <label asp-for="IsActive"></label>
+        <input class="form-check-input" asp-for="IsActive">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

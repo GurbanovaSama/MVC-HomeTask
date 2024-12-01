@@ -1,0 +1,31 @@
+﻿@model Order;
+
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="ClientName"></label>
+        <input class="form-control" asp-for="ClientName">
+    </div>
+    <div class="mb-3">
+        <label asp-for="ClientSurname"></label>
+        <input class="form-control" asp-for="ClientSurname">
+    </div>
+    <div class="mb-3 form-check">
+        <label asp-for="ClientPhoneNumber"></label>
+        <input class="form-check-input" asp-for="ClientPhoneNumber">
+    </div>
+    <div class="mb-3 form-check">
+        <label asp-for="ClientEmail"></label>
+        <input class="form-check-input" asp-for="ClientEmail">
+    </div>
+    <div class="mb-3 form-check">
+        <label asp-for="Problem"></label>
+        <input class="form-check-input" asp-for="Problem">
+    </div>
+    <div class="mb-3 form-check">
+        <label asp-for="IsActive"></label>
+        <input class="form-check-input" asp-for="IsActive">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
