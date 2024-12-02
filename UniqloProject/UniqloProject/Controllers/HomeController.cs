@@ -1,11 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using UniqloProject.DAL;
+using UniqloProject.Models;
 
 namespace UniqloProject.Controllers
 {
     public class HomeController : Controller
     {
-        readonly AppDbContext _context;
+       private readonly AppDbContext _context;
 
         public HomeController(AppDbContext context)
         {
@@ -14,8 +15,8 @@ namespace UniqloProject.Controllers
 
         public IActionResult Index()
         {
-
-            return View();
+            IEnumerable<SliderItem> sliderItems = _context.SliderItems.ToList();
+            return View(sliderItems);
         }
     }
 }
