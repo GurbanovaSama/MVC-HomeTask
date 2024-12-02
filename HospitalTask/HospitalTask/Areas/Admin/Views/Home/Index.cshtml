@@ -1,0 +1,32 @@
+﻿@using HospitalTask.Areas.ViewModels
+@model AdminVM
+
+
+
+<div>
+    <h2>Aktiv Həkimlər</h2>
+    @foreach (var doctor in Model.Doctors)
+    {
+        <p>
+            <strong>Ad:</strong> @doctor.Name <br />
+            <strong>Soyad:</strong> @doctor.Surname <br />
+            <strong>Telefon:</strong> @doctor.PhoneNumber <br />
+            <strong>Email:</strong> @doctor.Email <br />
+        </p>
+        <hr />
+    }
+</div>
+
+<div>
+    <h2>Yaxınlaşan Təyinatlar</h2>
+    @foreach (var appointment in Model.UpcommingAppoinments)
+    {
+        <p>
+            <strong>Həkim:</strong> @appointment.Doctor.Name @appointment.Doctor.Surname <br />
+            <strong>Xəstə:</strong> @appointment.Patient.Name @appointment.Patient.Surname <br />
+            <strong>Təyinat Tarixi:</strong> @appointment.AppointmentDate.ToString("yyyy-MM-dd HH:mm") <br />
+        </p>
+        <hr />
+    }
+</div>
+
