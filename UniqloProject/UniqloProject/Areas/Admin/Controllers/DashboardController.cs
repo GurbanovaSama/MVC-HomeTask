@@ -1,12 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace UniqloProject.Areas.Admin.Controllers
+namespace UniqloProject.Areas.Admin.Controllers;
+
+[Area("Admin")]
+public class DashboardController : Controller
 {
-    public class DashboardController : Controller
+    public IActionResult Index()
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+        return View();
     }
 }

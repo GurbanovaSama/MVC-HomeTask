@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UniqloProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93d8723af40984600cfbcd20a0e7b04e0b34a168")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccbe571d4c6842a7ed6e32d3a2fc099b5c3ce34d")]
 [assembly: System.Reflection.AssemblyProductAttribute("UniqloProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UniqloProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
