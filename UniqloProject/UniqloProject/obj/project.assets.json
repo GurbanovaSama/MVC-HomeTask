@@ -4006,23 +4006,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\II Novbe\\.nuget\\packages\\": {},
+    "C:\\Users\\Sema Gurbanova\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\UniqloProject.csproj",
+      "projectUniqueName": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\UniqloProject.csproj",
       "projectName": "UniqloProject",
-      "projectPath": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\UniqloProject.csproj",
-      "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\obj\\",
+      "projectPath": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\UniqloProject.csproj",
+      "packagesPath": "C:\\Users\\Sema Gurbanova\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sema Gurbanova\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4031,7 +4031,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4048,8 +4047,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -4089,7 +4089,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
