@@ -1,0 +1,26 @@
+﻿@using UniqloProject.Models
+@model IEnumerable<Product>;
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Price</th>
+            <th scope="col">ImageUrl</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(Product item in Model)
+        {
+            <tr>
+                <th scope="col">@item.Id</th>
+                <th scope="col">@item.Name</th>
+                <th scope="col">@item.Price</th>
+                <th scope="col">@item.ImageUrl</th>
+            </tr>
+        }
+
+      
+    </tbody>
+</table>
