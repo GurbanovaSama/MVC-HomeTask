@@ -1,8 +1,19 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using SimulationExamProject.DAL;
+using SimulationExamProject.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
+{
+    opt.Password.RequiredLength = 8;
+    opt.Password.RequireUppercase = false;
+    opt.Password.RequiredUniqueChars = 2;
+    opt.User.RequireUniqueEmail = true;
+    opt.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._";
+}).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
 
 builder.Services.AddDbContext<AppDbContext>(
     options =>
@@ -11,7 +22,6 @@ builder.Services.AddDbContext<AppDbContext>(
 
 var app = builder.Build();
 app.UseStaticFiles();
-
 app.UseAuthentication();
 
 
