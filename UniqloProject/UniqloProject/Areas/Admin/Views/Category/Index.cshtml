@@ -1,0 +1,20 @@
+﻿@using UniqloProject.Models
+@model IEnumerable<Category>;
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Category item in Model)
+        {
+            <tr>
+                <th scope="col">@item.Id</th>
+                <th scope="col">@item.Name</th>
+            </tr>
+        }
+    </tbody>
+</table>
