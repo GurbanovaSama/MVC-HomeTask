@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using UniqloProject.Areas.Admin.ViewModels;
 using UniqloProject.DAL;
 using UniqloProject.Models;
 
@@ -33,20 +34,28 @@ public class ProductController : Controller
         return RedirectToAction(nameof(Index));
     }
 
+
+
     public IActionResult Create()
     {
         return View();
     }
 
     [HttpPost]
-    public IActionResult Create(Product product)
+    public IActionResult Create(ProductCreateVM productVM)
     {
+        Product product = new Product()
+        { 
+            Name = productVM.Name,
+            Price = productVM.Price,
+        };
+   
         if (!ModelState.IsValid)
         {
             return BadRequest("Something went wrong");
         }
-        _context.Products.Add(product);
-        _context.SaveChanges();
+        //_context.Products.Add(product);
+        //_context.SaveChanges();
         return RedirectToAction(nameof(Index));
     }
 
