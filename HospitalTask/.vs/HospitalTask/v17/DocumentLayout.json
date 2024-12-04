@@ -1,29 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\HospitalTask\\",
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\hospitaltask\\hospitaltask\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|c:\\users\\ii novbe\\desktop\\mvc-hometask\\hospitaltask\\hospitaltask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|c:\\users\\ii novbe\\desktop\\mvc-hometask\\hospitaltask\\hospitaltask\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|c:\\users\\ii novbe\\desktop\\mvc-hometask\\hospitaltask\\hospitaltask\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\areas\\admin\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\hospitaltask\\hospitaltask\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|c:\\users\\ii novbe\\desktop\\mvc-hometask\\hospitaltask\\hospitaltask\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\hospitaltask\\hospitaltask\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|c:\\users\\ii novbe\\desktop\\mvc-hometask\\hospitaltask\\hospitaltask\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\hospitaltask\\hospitaltask\\areas\\admin\\dtos\\doctordtos\\createdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|c:\\users\\ii novbe\\desktop\\mvc-hometask\\hospitaltask\\hospitaltask\\areas\\admin\\dtos\\doctordtos\\createdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\areas\\admin\\dtos\\doctordtos\\createdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\hospitaltask\\hospitaltask\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|c:\\users\\ii novbe\\desktop\\mvc-hometask\\hospitaltask\\hospitaltask\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\areas\\admin\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\hospitaltask\\hospitaltask\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|c:\\users\\ii novbe\\desktop\\mvc-hometask\\hospitaltask\\hospitaltask\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF5AD4B4-90BD-4890-BFE3-D43C60428AF1}|HospitalTask\\HospitalTask.csproj|solutionrelative:hospitaltask\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,15 +42,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CreateDoctorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\DTOs\\DoctorDTOs\\CreateDoctorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\DTOs\\DoctorDTOs\\CreateDoctorDTO.cs",
               "RelativeDocumentMoniker": "HospitalTask\\Areas\\Admin\\DTOs\\DoctorDTOs\\CreateDoctorDTO.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\DTOs\\DoctorDTOs\\CreateDoctorDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\DTOs\\DoctorDTOs\\CreateDoctorDTO.cs",
               "RelativeToolTip": "HospitalTask\\Areas\\Admin\\DTOs\\DoctorDTOs\\CreateDoctorDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,11 +59,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DoctorController.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "HospitalTask\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "RelativeToolTip": "HospitalTask\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -63,20 +71,38 @@
               "IsPinned": true
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HospitalTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HospitalTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAAAC0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-04T13:50:15.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "HospitalTask\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "HospitalTask\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T13:48:52.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Models\\Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "HospitalTask\\Models\\Doctor.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Models\\Doctor.cs",
               "RelativeToolTip": "HospitalTask\\Models\\Doctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,24 +110,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
               "RelativeDocumentMoniker": "HospitalTask\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
               "RelativeToolTip": "HospitalTask\\Areas\\Admin\\Views\\Doctor\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAEAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T03:45:25.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-04T03:45:25.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
               "RelativeDocumentMoniker": "HospitalTask\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
               "RelativeToolTip": "HospitalTask\\Areas\\Admin\\Views\\Doctor\\Create.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -109,11 +134,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Hospital.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Models\\Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Models\\Hospital.cs",
               "RelativeDocumentMoniker": "HospitalTask\\Models\\Hospital.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Models\\Hospital.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\Models\\Hospital.cs",
               "RelativeToolTip": "HospitalTask\\Models\\Hospital.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
