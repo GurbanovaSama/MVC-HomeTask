@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SXpdg3ouoMU=",
+  "dgSpecHash": "zkWPADFTxeM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sema Gurbanova\\source\\repos\\HospitalTask\\HospitalTask\\HospitalTask.csproj",
+  "projectFilePath": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\HospitalTask\\HospitalTask\\HospitalTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sema Gurbanova\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Sema Gurbanova\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -11,5 +11,6 @@
         public string Username => Name + FinCode;
         public bool IsActive { get; set; }
         public ICollection<Appointment> Appointments { get; set; }
+        public ICollection<HospitalDoctor>? HospitalDoctors { get; set; }
     }
 }

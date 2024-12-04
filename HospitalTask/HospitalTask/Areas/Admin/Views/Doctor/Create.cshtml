@@ -1,0 +1,38 @@
+﻿@model HospitalTask.Areas.Admin.DTOs.DoctorDTOs.CreateDoctorDTO
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input class="form-control" asp-for="Name">
+    </div>
+    <div class="form-group">
+        <label asp-for="Surname"></label>
+        <input class="form-control" asp-for="Surname">
+    </div>
+    <div class="form-group">
+        <label asp-for="FinCode"></label>
+        <input class="form-control" asp-for="FinCode">
+    </div>
+    <div class="form-group">
+        <label asp-for="PhoneNumber"></label>
+        <input class="form-control" asp-for="PhoneNumber">
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input class="form-control" asp-for="Email">
+    </div>
+    <div class="form-group">
+        <label asp-for="Username"></label>
+        <input class="form-control" asp-for="Username">
+    </div>
+    <div class="form-group">
+        <label asp-for="IsActive"></label>
+        <input class="form-control" asp-for="IsActive">
+    </div>
+
+    <label asp-for="HospitalIds"></label>
+    <select asp-for="HospitalIds" asp-items="@ViewBag.Hospitals" ></select>
+    <span asp-validation-for="HospitalIds" ></span>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
