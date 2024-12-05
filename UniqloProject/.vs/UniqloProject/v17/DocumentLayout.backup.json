@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\uniqloproject\\uniqloproject\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|solutionrelative:uniqloproject\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\uniqloproject\\uniqloproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|solutionrelative:uniqloproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\uniqloproject\\uniqloproject\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|solutionrelative:uniqloproject\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\uniqloproject\\uniqloproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|solutionrelative:uniqloproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\uniqloproject\\uniqloproject\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|solutionrelative:uniqloproject\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\uniqloproject\\uniqloproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|solutionrelative:uniqloproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\uniqloproject\\uniqloproject\\areas\\admin\\viewmodels\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|solutionrelative:uniqloproject\\areas\\admin\\viewmodels\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\uniqloproject\\uniqloproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|solutionrelative:uniqloproject\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\uniqloproject\\uniqloproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|solutionrelative:uniqloproject\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\uniqloproject\\uniqloproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|solutionrelative:uniqloproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\uniqloproject\\uniqloproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714BB9DF-0A82-4F32-BB1A-291C554F9A2E}|UniqloProject\\UniqloProject.csproj|solutionrelative:uniqloproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,93 +42,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\ViewModels\\Product\\ProductCreateVM.cs",
+              "RelativeDocumentMoniker": "UniqloProject\\Areas\\Admin\\ViewModels\\Product\\ProductCreateVM.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\ViewModels\\Product\\ProductCreateVM.cs",
+              "RelativeToolTip": "UniqloProject\\Areas\\Admin\\ViewModels\\Product\\ProductCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:44:26.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "UniqloProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "UniqloProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T04:41:49.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "UniqloProject\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "UniqloProject\\Areas\\Admin\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T04:45:15.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "UniqloProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "UniqloProject\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T05:22:44.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "UniqloProject\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\Views\\Product\\Create.cshtml*",
-              "RelativeToolTip": "UniqloProject\\Areas\\Admin\\Views\\Product\\Create.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T05:21:17.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "UniqloProject\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "UniqloProject\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T05:17:44.882Z",
+              "WhenOpened": "2024-12-05T05:59:17.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "UniqloProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "UniqloProject\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "UniqloProject\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Models\\Product.cs",
+              "RelativeToolTip": "UniqloProject\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T05:17:43.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "UniqloProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "UniqloProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T05:17:40.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Program.cs",
-              "RelativeDocumentMoniker": "UniqloProject\\Program.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\Program.cs",
-              "RelativeToolTip": "UniqloProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T05:15:34.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\appsettings.json",
-              "RelativeDocumentMoniker": "UniqloProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\UniqloProject\\UniqloProject\\appsettings.json",
-              "RelativeToolTip": "UniqloProject\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-04T05:15:46.481Z",
+              "WhenOpened": "2024-12-05T05:52:50.74Z",
               "EditorCaption": ""
             }
           ]

@@ -11,14 +11,17 @@ public class ProductController : Controller
 {
 
     private readonly AppDbContext _context;
-    public ProductController(AppDbContext context)
+    IWebHostEnvironment _webHostEnvironment;
+    public ProductController(AppDbContext context, IWebHostEnvironment webHostEnvironment)
     {
         _context = context;
+        _webHostEnvironment = webHostEnvironment;
     }
 
     public IActionResult Index()
     {
-        IEnumerable<Product> products = _context.Products.ToList();
+        //IEnumerable<Product> products = _context.Products.ToList();
+        IEnumerable<Product> products = _context.Products.Include(s=> s.Category).ToList();
         return View(products);
     }
 
@@ -42,21 +45,37 @@ public class ProductController : Controller
     }
 
     [HttpPost]
-    public IActionResult Create(ProductCreateVM productVM)
+    public IActionResult Create(Product product)
     {
-        Product product = new Product()
-        { 
-            Name = productVM.Name,
-            Price = productVM.Price,
-        };
-   
         if (!ModelState.IsValid)
         {
-            return BadRequest("Something went wrong");
+            return View(product); 
         }
-        //_context.Products.Add(product);
-        //_context.SaveChanges();
+
+        if (!product.ImageUrl.Contains("image"))
+        {
+            ModelState.AddModelError("Image", "Only image format accepted");
+            return View(product);   
+        }
+
+        string path = _webHostEnvironment.WebRootPath + @"\images\product\";
+        string fileName = product.Image.FileName;
+        using(FileStream fileStream = new FileStream(path + fileName, FileMode.Create))
+        {
+            product.Image.CopyTo(fileStream);
+        }
+        product.ImageUrl = fileName;
+
+
+        _context.Products.Add(product);
+        _context.SaveChanges();
         return RedirectToAction(nameof(Index));
+
+
+        //if (!ModelState.IsValid)
+        //{
+        //    return BadRequest("Something went wrong");
+        //}
     }
 
     public IActionResult Update(int? Id)
