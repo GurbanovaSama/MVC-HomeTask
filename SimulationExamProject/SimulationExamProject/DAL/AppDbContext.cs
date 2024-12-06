@@ -12,8 +12,7 @@ namespace SimulationExamProject.DAL
 
         public DbSet<Master> Masters { get; set; }
         public DbSet<Order> Orders { get; set; }
-        public DbSet<Service> Services { get; set; } 
-        
-
+        public DbSet<Service> Services { get; set; }
+        public object Images { get; internal set; }
     }
 }

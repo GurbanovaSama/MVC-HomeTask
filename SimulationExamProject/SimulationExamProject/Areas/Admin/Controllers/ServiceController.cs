@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion.Internal;
 using SimulationExamProject.DAL;
+using SimulationExamProject.DTOs.UserDTOs;
 using SimulationExamProject.Models;
 
 
@@ -12,10 +13,12 @@ namespace SimulationExamProject.Areas.Admin.Controllers
     public class ServiceController : Controller
     {
         private readonly AppDbContext _context;
+        IWebHostEnvironment _webHostEnvironment;
 
-        public ServiceController(AppDbContext context)
+        public ServiceController(AppDbContext context, IWebHostEnvironment webHost)
         {
             _context = context;
+            _webHostEnvironment = webHost;
         }
 
         public async Task<IActionResult> Index()
@@ -49,19 +52,28 @@ namespace SimulationExamProject.Areas.Admin.Controllers
         [HttpPost]
         public IActionResult Create(Service service)
         {
-            if(!ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
-                return BadRequest("Something went wrong");
+                return View(service);   
             }
-            else
+            if (!service.Image.ContentType.Contains("image"))
             {
-                _context.Services.Add(service);
-                _context.SaveChanges();
+                ModelState.AddModelError("Image", "Only image format accepteed");
+                return View(service);  
             }
 
-         
-            
-            return RedirectToAction(nameof(Index));
+            string path = _webHostEnvironment.WebRootPath + @"\Upload\ServiceImages\";
+            string fileName = service.Image.FileName;   
+            using(FileStream fileStream = new FileStream(path + fileName, FileMode.Create))
+            {
+                service.Image.CopyTo(fileStream);
+            }
+
+            service.MainImageUrl = fileName;
+
+             _context.Services.Add(service);
+             _context.SaveChanges();
+             return RedirectToAction(nameof(Index));
         }
 
        
@@ -72,7 +84,8 @@ namespace SimulationExamProject.Areas.Admin.Controllers
             {
                 return NotFound("No such service");
             }
-            return View(service);  
+            return View(service);
+
         }
 
         [HttpPost]
@@ -88,9 +101,5 @@ namespace SimulationExamProject.Areas.Admin.Controllers
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));
         }   
-
-
-
-
     }
 }
