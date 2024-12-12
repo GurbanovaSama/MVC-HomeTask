@@ -1,0 +1,23 @@
+﻿@model Game;
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="Title"></label>
+        <input class="form-control" asp-for="Title">
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description"></label>
+        <input class="form-control" asp-for="Description">
+    </div>
+    <div class="mb-3">
+        <label asp-for="ImageUrl"></label>
+        <input class="form-control" asp-for="ImageUrl">
+    </div>
+    <div class="mb-3">
+        <label asp-for="GameId"></label>
+        <input class="form-control" asp-for="GameId">
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

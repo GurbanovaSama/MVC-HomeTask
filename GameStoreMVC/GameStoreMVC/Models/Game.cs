@@ -1,8 +1,9 @@
-﻿namespace GameStoreMVC.Models
+﻿using GameStoreMVC.Models.Base;
+
+namespace GameStoreMVC.Models
 {
-    public class Game
+    public class Game : BaseAuditableEntity
     {
-        public int Id { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
         public string ImageUrl { get; set; }
