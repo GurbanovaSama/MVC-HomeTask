@@ -20,7 +20,7 @@ namespace GameStoreMVC.Areas.Admin.Controllers
         public async Task<IActionResult> Index()
         {
             IEnumerable<Game> games = await _context.Games.ToListAsync();
-            return View();
+            return View(games);
         }
 
         //CRUD
