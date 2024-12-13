@@ -20,7 +20,7 @@
                 <td>@item.Description</td>
                 <td><img src="~/assets/images/@item.ImageUrl" width="40"/></td>
                 <td>@item.GameId</td>
-                <td><a class="btn btn-primary">Update</a></td>
+                <td><a class="btn btn-primary" asp-area="Admin" asp-controller="Game" asp-action="Update" asp-route-id="@item.Id">Update</a></td>
                 <td><a class="btn btn-primary" asp-area="Admin" asp-controller="Game" asp-action="Delete" asp-route-id="@item.Id">Delete</a></td>
             </tr>
         }

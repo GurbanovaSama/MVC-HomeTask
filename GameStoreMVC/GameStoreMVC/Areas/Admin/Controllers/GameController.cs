@@ -24,8 +24,9 @@ namespace GameStoreMVC.Areas.Admin.Controllers
         }
 
         //CRUD
-        public IActionResult Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
+            IEnumerable<Game> games = await _context.Games.ToListAsync();
             Game? deletedGame = _context.Games.Find(id);
             if (deletedGame == null)
             {
@@ -43,6 +44,7 @@ namespace GameStoreMVC.Areas.Admin.Controllers
 
         public IActionResult Create()
         {
+            
             return View();
         }
 
