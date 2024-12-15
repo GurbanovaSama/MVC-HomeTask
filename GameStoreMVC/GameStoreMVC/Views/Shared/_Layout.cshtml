@@ -59,7 +59,16 @@
                             <li><a href="shop.html">Our Shop</a></li>
                             <li><a  asp-controller="ProductDetails" asp-action="Index">Product Details</a></li>
                             <li><a href="contact.html">Contact Us</a></li>
-                            <li><a href="#">Sign In</a></li>
+                            @if(User.Identity.IsAuthenticated)
+                            {
+                                <a class="nav-link" style="color: #000" href="#">@User.Identity.Name</a>
+                                <a class="nav-link" style="color: #000" asp-controller="Accounts" asp-action="Logout">Logout</a>
+                            }
+                            else
+                            {
+                                <li class="bx bx-user-circle bx-sm text-primary "><a class="nav-link" asp-controller="Accounts" asp-action="Login">Sign In</a></li>
+                            }
+                           
                         </ul>
                         <a class='menu-trigger'>
                             <span>Menu</span>
