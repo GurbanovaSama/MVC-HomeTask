@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\gamestoremvc\\gamestoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\gamestoremvc\\gamestoremvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\gamestoremvc\\gamestoremvc\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\gamestoremvc\\gamestoremvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\gamestoremvc\\gamestoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\gamestoremvc\\gamestoremvc\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\views\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\gamestoremvc\\gamestoremvc\\dtos\\userdtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\dtos\\userdtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\gamestoremvc\\gamestoremvc\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\views\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\gamestoremvc\\gamestoremvc\\dtos\\userdtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\dtos\\userdtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|c:\\users\\sema gurbanova\\desktop\\mvc-hometask\\gamestoremvc\\gamestoremvc\\dtos\\basketdtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C1CCD9A-543F-4CC7-A0D8-F8B330782D0C}|GameStoreMVC\\GameStoreMVC.csproj|solutionrelative:gamestoremvc\\dtos\\basketdtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "GameStoreMVC\\Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "GameStoreMVC\\Controllers\\AccountsController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwDwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T09:06:26.65Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -64,75 +35,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GameStoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "GameStoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T13:54:07.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\DTOs\\UserDTOs\\LoginUserDto.cs",
-              "RelativeDocumentMoniker": "GameStoreMVC\\DTOs\\UserDTOs\\LoginUserDto.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\DTOs\\UserDTOs\\LoginUserDto.cs",
-              "RelativeToolTip": "GameStoreMVC\\DTOs\\UserDTOs\\LoginUserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Title": "BasketItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\DTOs\\BasketDTOs\\BasketItemDto.cs",
+              "RelativeDocumentMoniker": "GameStoreMVC\\DTOs\\BasketDTOs\\BasketItemDto.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\DTOs\\BasketDTOs\\BasketItemDto.cs",
+              "RelativeToolTip": "GameStoreMVC\\DTOs\\BasketDTOs\\BasketItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T12:51:53.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\Views\\Accounts\\Login.cshtml",
-              "RelativeDocumentMoniker": "GameStoreMVC\\Views\\Accounts\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\Views\\Accounts\\Login.cshtml",
-              "RelativeToolTip": "GameStoreMVC\\Views\\Accounts\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T12:47:28.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\Program.cs",
-              "RelativeDocumentMoniker": "GameStoreMVC\\Program.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\Program.cs",
-              "RelativeToolTip": "GameStoreMVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T11:53:13.285Z",
+              "WhenOpened": "2024-12-16T05:23:17.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateUserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\DTOs\\UserDTOs\\CreateUserDto.cs",
-              "RelativeDocumentMoniker": "GameStoreMVC\\DTOs\\UserDTOs\\CreateUserDto.cs",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\DTOs\\UserDTOs\\CreateUserDto.cs",
-              "RelativeToolTip": "GameStoreMVC\\DTOs\\UserDTOs\\CreateUserDto.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T09:42:33.653Z"
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameStoreMVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "GameStoreMVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAH8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T04:12:36.84Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\Views\\Accounts\\Register.cshtml",
-              "RelativeDocumentMoniker": "GameStoreMVC\\Views\\Accounts\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\Views\\Accounts\\Register.cshtml",
-              "RelativeToolTip": "GameStoreMVC\\Views\\Accounts\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T09:07:38.218Z"
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "GameStoreMVC\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Sema Gurbanova\\Desktop\\MVC-HomeTask\\GameStoreMVC\\GameStoreMVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "GameStoreMVC\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T04:11:14.633Z",
+              "EditorCaption": ""
             }
           ]
         }

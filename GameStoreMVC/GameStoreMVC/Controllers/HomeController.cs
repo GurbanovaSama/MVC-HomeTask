@@ -22,6 +22,8 @@ namespace GameStoreMVC.Controllers
             {
                 Games = games
             };
+         
+
             return View(homeVM);
         }
 
